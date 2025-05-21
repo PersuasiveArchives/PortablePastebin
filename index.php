@@ -39,7 +39,7 @@
         </form>
     </div>
     <footer>
-        <p>&copy; Powered by Portable Pastebin. All rights reserved.</p>
+        <p>&copy; Powered by Portable Pastebin.</p>
         <p><a href="https://github.com/PersuasiveArchives/PortablePastebin">View on GitHub</a></p>
     </footer>
 </body>
