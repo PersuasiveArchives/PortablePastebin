@@ -1,3 +1,6 @@
+
+
+<?php
 /**
  * MIT License
  *
@@ -22,7 +25,6 @@
  * SOFTWARE.
  */
 
-<?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty(trim($_POST['content']))) {
     $content = trim($_POST['content']);
     $id = bin2hex(random_bytes(4));  // unique ID
