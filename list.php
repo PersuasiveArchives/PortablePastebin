@@ -1,3 +1,6 @@
+
+
+<?php
 /**
  * MIT License
  *
@@ -21,8 +24,6 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-
-<?php
 $search = isset($_GET['q']) ? trim($_GET['q']) : '';
 $pastePath = __DIR__ . '/pastes/';
 $pastes = [];
